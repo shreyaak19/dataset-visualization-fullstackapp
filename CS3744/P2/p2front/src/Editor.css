@@ -1,0 +1,19 @@
+/*
+ * Project 2
+ * Editor component CSS source code
+ *
+ * Author: Shreya Ashok Kumar
+ * Version: 1.0
+ *
+ * Defining styling for Editor elements
+ */
+
+#newElement {
+    align-content: center;
+}
+
+.centerDiv {
+    align-content: center;
+    text-align: center;
+    padding-bottom: 10px;
+}
